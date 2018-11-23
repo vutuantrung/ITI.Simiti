@@ -1,1 +1,2 @@
-ITI.Simiti
+# Simiti
+School Project 
